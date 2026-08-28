@@ -1,0 +1,13 @@
+# Evaluator Secret & Internal Management Files (DO NOT PUBLISH TO CANDIDATES)
+evaluator_assets/
+SELECTION_PROCESS_GUIDE.md
+TEAM_PS_EXPLAINER_HINGLISH.md
+generate_excel.py
+ssq.png
+
+# Python & Environment ignores
+__pycache__/
+*.pyc
+.env
+.DS_Store
+node_modules/
